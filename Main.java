@@ -10,5 +10,6 @@ public class Main {
         System.out.println("pallavi");
         Student student=new Student();
         student.sayHello();
+        student.m();
     }
 }
