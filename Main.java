@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Vikrant");
         System.out.println("Bhendarkar");
         System.out.println("pallavi");
+        Student student=new Student();
+        student.sayHello();
     }
 }
