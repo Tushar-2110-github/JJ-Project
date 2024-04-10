@@ -5,5 +5,6 @@ public class Student {
 
     public void m(){
         System.out.println("Hello Everyone");
+        System.out.println("Tushar");
     }
 }
